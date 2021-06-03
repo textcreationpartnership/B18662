@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the Earl and Countess of Abercorn.</title>
+            <author>Abercorn, Charles Hamilton, Earl of, d. 1701.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18662</idno><idno type="EEBO-CITATION">99885951</idno>
+  <idno type="VID">188561</idno>
+  <idno type="EEBO-PROQUEST">2240887022</idno>
+  
+            <idno type="STC">Wing C1065C</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.17[22]</idno>
+            <idno type="STC">ESTC R225223</idno>
+            <idno type="PROQUEST">ocm99885951</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885951e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188561)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:2[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the Earl and Countess of Abercorn.</title>
+                  <author>Abercorn, Charles Hamilton, Earl of, d. 1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Law --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:188561:1"/>
+            <head>THE CASE OF THE <hi>Earl and Countess of Abercorn.</hi>
+            </head>
+            <p>
+               <hi>CLAUDIƲS</hi> late Earl of <hi>Abercorn</hi> was seized of the Manor and Lordship of <hi>Straban</hi> and other Lands in the Kingdom of <hi>Ireland,</hi> which were of the ancient Inheritance of his Family; which Lordship the said Earl did mortgage to <hi>Brook Bridges,</hi>Esq; and contracted many other Debts which did affect the same some time before the late Rebellion in <hi>Ireland.</hi>
+            </p>
+            <p>He did Agree, upon the Marriage of <hi>Charles</hi> his Younger Brother (the pre<g ref="char:EOLhyphen"/>sent Earl) with <hi>Catharine</hi> the Relict of <hi>William Lenthall,</hi>Esq; That upon his Death without Issue, the Premisses should come to the said <hi>Charles,</hi> and that he would make a Settlement accordingly.</p>
+            <p>The said <hi>Charles,</hi> by such Assurances, was persuaded to become bound with the said Earl <hi>Claudius</hi> to the said Mr. <hi>Bridges</hi> and several others for above 7000 <hi>l.</hi> and had no other Counter-Security than a Bond for the same.</p>
+            <p>The said <hi>Charles (soon after his Marriage) became a Protestant, and left all his Employ<g ref="char:EOLhyphen"/>ments</hi> (which were considerable) <hi>under King</hi> James: At which the said late Earl did take disgust, and never made any such Settlement upon the said <hi>Charles</hi> since his Inter-marriage with <hi>Catharine</hi> as aforesaid, nor took any care for the Payment of his said Debts, for which the said <hi>Charles</hi> was Bound.</p>
+            <p>The <hi>said Earl, upon this Disgust, did by Will devise his Estate to</hi> Gerrard Dillon, <hi>Esq; and directed, That the Children of</hi> Charles <hi>should be Educated in a</hi> Romish <hi>Seminary beyond the Seas, <hi>Otherwise</hi>
+               </hi> to have no share of his Estate; and by the same directs all his Debts to be paid, <hi>Except what his Brother was Engaged for.</hi>
+            </p>
+            <p>The said Earl was killed in or about <hi>July</hi> or <hi>August</hi> 1691, and afterwards was attainted of High Treason. But the Outlawry was not by the present Earl Reversed, by reason the Estate was settled on <hi>Dillon</hi> a forfeiting Person.</p>
+            <p>Nevertheless, <hi>Charles</hi> the present Earl, in the Year 1691, did by Petition represent the Premisses to the <hi>Commons of England</hi> then in Parliament assembled, there being then depending a Bill for Resumption of the Forfeited Estates in <hi>Ireland,</hi> and desired the said <hi>Commons</hi> to accept of a Clause impowering Their Majesties to extend such Grace and Favour to the said <hi>Charles</hi> the present Earl as they should think fit.</p>
+            <p>
+               <note place="margin">
+                  <hi>N<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>te.</hi> The pre<g ref="char:EOLhyphen"/>sent Earl never made any appli<g ref="char:EOLhyphen"/>cation to Their Majesties until the <hi>Commons</hi> had Twice admitted the Clause.</note>When the Second Bill of Resumption passed the <hi>Commons,</hi> there was the like Clause inserted, That Their Majesties might extend such Favour to the said <hi>Charles</hi> the present Earl as Their Ma<g ref="char:EOLhyphen"/>jesties should think fit, and that any Grant made by Their Majesties of the said Honour and Estate should be good in Law: Upon which the said Letters Patents were confirmed, but the same not Passing the House of Peers.</p>
+            <p>Upon due Proof before Their Majesties of the Allegations set forth in his said Petition to the said <hi>Commons,</hi> Their Majesties were pleased to order that Letters Patents should pass for the said Honour and Lordship of <hi>Straban</hi> to the said <hi>Charles</hi> the present Earl, in Consideration of the Payment of the said Debts, <hi>and therein directed the Payment of the said Debts.</hi>
+            </p>
+            <p>And there being also a Third Bill prepared for such Resumptions, the said <hi>Charles</hi> (the present Earl) in the said Bill had a Saving of the said Grant.</p>
+            <p>Upon these Assurances of the King and <hi>Parliament,</hi> the present Countess of <hi>Abercorn</hi> was prevailed upon to sell above 600 <hi>l. per An.</hi> of her Jointure-Lands in <hi>Oxfordshire,</hi> which were settled upon her by her former Husband, to pay off Incumbrances, and release the present Earl from his Personal Engagements for the late Earl deceased; and the Estate of <hi>Straban</hi> afore<g ref="char:EOLhyphen"/>said was conveyed, in lieu thereof, to the Duke of <hi>Norfolk,</hi> Sir <hi>Joseph Tredenham,</hi> and Sir <hi>Francis Winnington,</hi> in Trust for the said Countess.</p>
+            <p>The present Earl hath been at great Charges in Reparations in and about the said Premisses, in making several Journeys into <hi>Ireland</hi> in relation to the same, in paying the said Debts pursuant to the Letters Patents, and in Passing the said Grants, <hi>&amp;c.</hi>
+            </p>
+            <p>The Commissioners appointed to enquire into the Forfeited Estates in <hi>Ireland,</hi> in their Report to the last Parliament, make no mention of the Manor of <hi>Straban,</hi> they finding upon Enquiry the same to be charged with far greater Debts than the Value thereof.</p>
+            <p>
+               <hi>The Premisses Consider'd, It is humbly hoped, That the Compassionate and Deplorable Estate of the present Earl and his Lady will be Relieved by this Honourable House, <hi>Especially the said Earl and his Countess having no other Estate to subsist on.</hi>
+               </hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:188561:2"/>
+            <p>CASE OF THE Earl of <hi>Abercorn.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
